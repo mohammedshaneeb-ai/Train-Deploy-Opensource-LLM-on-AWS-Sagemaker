@@ -1,0 +1,4 @@
+transformers==4.34.0
+datasets[s3]==2.14.6
+sagemaker>=2.190.0
+gradio==3.50.2
